@@ -37,7 +37,7 @@ helm install elasticsearch .
 helm uninstall elasticsearch
 ```
 
-## Trobleshooting
+## Troubleshooting
 
 - kubectl get pods
 - kubectl get services
